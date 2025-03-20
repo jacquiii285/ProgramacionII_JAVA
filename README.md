@@ -39,7 +39,7 @@ Aquí encontrarán:
     - [✅ Ejemplo 1: Primer Programa en Java](https://raw.githubusercontent.com/Aperealazo/ProgramacionII_JAVA/refs/heads/main/Ejemplo-Clases/HolaQuinto.java)  
     - [✅ Ejemplo 2: Variables y Tipos de Datos](ruta-al-archivo-java)  
   - **📝 Ejercicios**:  
-    - [✍️ Ejercicio 1: Escribir un programa que imprima "Hola Mundo"](ruta-al-ejercicio)  
+    - [✍️ Ejercicio 1: Escribir un programa que imprima "Hola Mundo"](Ejemplo-Clases/HolaQuinto.java)  
     - [✍️ Ejercicio 2: Crear un programa que calcule la suma de dos números](ruta-al-ejercicio)
 
 
