@@ -1,6 +1,16 @@
-# 🚀 Repositorio de Aprendizaje de Java  
+# 🚀 Repositorio de Aprendizaje de Java   | CEN 
 
-¡Bienvenido al curso de Java! Aquí encontrarás módulos con materiales en **PDF 📄**, **ejemplos prácticos 💻**, y **ejercicios 📝** para reforzar tu aprendizaje.  
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" style="vertical-align: middle; margin-right: 5px;"> ¡Hola, alumnos de Quinto año! Bienvenidos a este espacio donde aprenderemos Java de manera divertida y práctica.  
+
+Aquí encontrarán:  
+- 📄 **Materiales en PDF**   
+- 💻 **Ejemplos prácticos**   
+- 📝 **Ejercicios para practicar**
+ 
+💡 No tengan miedo de experimentar con el código y cometer errores, ¡así es como realmente se aprende!
+
+🚀  ¡Vamos a programar! 🎯  
+ 
 
 ---
 
@@ -9,7 +19,7 @@
 ### 1. **:beginner: Módulo 1: Fundamentos de Java**  
 
 <details>
-  <summary>🛠️ Haz clic para ver los temas</summary>  
+<summary> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" height="32" style="vertical-align: middle; margin-right: 8px;"> Haz clic para ver los temas</summary>
 
   - [📄 **PDF Teórico**](ruta-al-pdf) - Introducción y primeros pasos en Java.  
   - **💻 Ejemplos de Clase**:  
