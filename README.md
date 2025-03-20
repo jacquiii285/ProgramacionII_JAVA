@@ -31,7 +31,7 @@ Aquí encontrarán:
 
 
 
-  - [📄 **PDF Teórico**](ruta-al-pdf) - Introducción y primeros pasos en Java.  
+  - [📄 **PDF Teórico**](PDF-Teórico/INTRODUCCION A JAVA/01 - Java Intro P1 Generalidades de Java.pdf) - Introducción y primeros pasos en Java.  
   - **💻 Ejemplos de Clase**:  
     - [✅ Ejemplo 1: Primer Programa en Java](ruta-al-archivo-java)  
     - [✅ Ejemplo 2: Variables y Tipos de Datos](ruta-al-archivo-java)  
@@ -43,7 +43,7 @@ Aquí encontrarán:
 </details>  
 
 ---
-
+<!--
 ### 2. **:dart: Módulo 2: Control de Flujo (Condicionales y Bucles)**  
 
 <details>
@@ -115,7 +115,7 @@ Aquí encontrarán:
 ## 🤝 Contribuciones  
 
 Si tienes sugerencias o deseas agregar más ejemplos, ¡haz un **pull request**! 🚀  
-
+-->
 ---
 
 ## 📬 Contacto  
