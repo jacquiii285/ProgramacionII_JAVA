@@ -36,8 +36,11 @@ Aquí encontrarán:
 
 
   - **💻 Ejemplos de Clase**:  
-    - [✅ Ejemplo 1: Primer Programa en Java](https://raw.githubusercontent.com/Aperealazo/ProgramacionII_JAVA/refs/heads/main/Ejemplo-Clases/HolaQuinto.java)  
-    - [✅ Ejemplo 2: Variables y Tipos de Datos](ruta-al-archivo-java)  
+    - [✅ Ejemplo :one:: Primer Programa en Java](Ejemplo-Clases/HolaQuinto.java)  
+    - [✅ Ejemplo :two:: Variables y Tipos de Datos](Ejemplo-Clases/HolaQuinto.java)
+    - [✅ Ejemplo 2: Concatenación](Ejemplo-Clases/ConcatenacionTexto.java)  
+    - [✅ Ejemplo 2: Variables y Tipos de Datos](Ejemplo-Clases/EntradaDeDatos.java)  
+    -   
   - **📝 Ejercicios**:  
     - [✍️ Ejercicio 1: Escribir un programa que imprima "Hola Mundo"](Ejemplo-Clases/HolaQuinto.java)  
     - [✍️ Ejercicio 2: Crear un programa que calcule la suma de dos números](ruta-al-ejercicio)
