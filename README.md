@@ -20,7 +20,7 @@ Aquí encontrarán:
 
 <details>
 <summary> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" height="32" style="vertical-align: middle; margin-right: 8px;"> Haz clic para ver los temas</summary>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">         
 <p align="center">
 <strong>INTRODUCCIÓN A JAVA :pushpin:</strong>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">         
@@ -41,6 +41,8 @@ Aquí encontrarán:
     - [✅ Ejemplo :three:: Concatenación](Ejemplo-Clases/ConcatenacionTexto.java)  
     - [✅ Ejemplo :four:: Variables y Tipos de Datos](Ejemplo-Clases/EntradaDeDatos.java)  
     - [✅ Ejemplo :five:: Condicionales](Ejemplo-Clases/Condicionales)
+    - [✅ Ejemplo :six:: Bucles](Ejemplo-Clases/Bucles)
+      
       
    
   - **📝 Ejercicios - Tarea**:  
