@@ -48,6 +48,8 @@ Aquí encontrarán:
   - **📝 Ejercicios - Tarea**:  
     - [✍️ Ejercicio 1: Escribir un programa que imprima "Hola Mundo"](Ejemplo-Clases/HolaQuinto.java)  
     - [✍️ Ejercicio 2: Crear un programa que calcule la suma de dos números](ruta-al-ejercicio)
+    - ## Ejercicio 7) Realizar un algoritmo que permita determinar si un número es par o impar, teniendo en cuenta las siguientes condiciones: Solo se admiten números positivos, se evalúan números entre 1000 y 10000, cualquier otro número genera una advertencia de error. El proceso termina cuando el usuario ingresa el número 0.
+
 
 
 </details>  
