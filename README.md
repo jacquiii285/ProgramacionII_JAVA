@@ -32,6 +32,8 @@ Aquí encontrarán:
 
 
   - [📄 **PDF Teórico**](https://github.com/Aperealazo/ProgramacionII_JAVA/blob/main/PDF-Te%C3%B3rico/INTRODUCCION%20A%20JAVA/01%20-%20Java%20Intro%20P1%20Generalidades%20de%20Java.pdf) - Introducción y primeros pasos en Java.  
+- <a href="https://github.com/Aperealazo/ProgramacionII_JAVA/blob/main/PDF-Te%C3%B3rico/INTRODUCCION%20A%20JAVA/01%20-%20Java%20Intro%20P1%20Generalidades%20de%20Java.pdf" target="_blank">📄 <b>PDF Teórico</b></a> - Introducción y primeros pasos en Java.  
+
   - **💻 Ejemplos de Clase**:  
     - [✅ Ejemplo 1: Primer Programa en Java](ruta-al-archivo-java)  
     - [✅ Ejemplo 2: Variables y Tipos de Datos](ruta-al-archivo-java)  
