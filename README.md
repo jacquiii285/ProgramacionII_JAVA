@@ -21,13 +21,24 @@ Aquí encontrarán:
 <details>
 <summary> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" height="32" style="vertical-align: middle; margin-right: 8px;"> Haz clic para ver los temas</summary>
 
+<p align="center">
+<strong>INTRODUCCIÓN A JAVA :pushpin:</strong>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">         
+
+
+</p>
+
+
+
+
   - [📄 **PDF Teórico**](ruta-al-pdf) - Introducción y primeros pasos en Java.  
   - **💻 Ejemplos de Clase**:  
     - [✅ Ejemplo 1: Primer Programa en Java](ruta-al-archivo-java)  
     - [✅ Ejemplo 2: Variables y Tipos de Datos](ruta-al-archivo-java)  
   - **📝 Ejercicios**:  
     - [✍️ Ejercicio 1: Escribir un programa que imprima "Hola Mundo"](ruta-al-ejercicio)  
-    - [✍️ Ejercicio 2: Crear un programa que calcule la suma de dos números](ruta-al-ejercicio)  
+    - [✍️ Ejercicio 2: Crear un programa que calcule la suma de dos números](ruta-al-ejercicio)
+
 
 </details>  
 
