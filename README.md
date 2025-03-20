@@ -35,12 +35,14 @@ Aquí encontrarán:
 - <a href="https://drive.google.com/file/d/1PvihPOcMbT9BSmoA-2Irvaia9_pgCbXv/view?usp=sharing" target="_blank">📄 <b>PDF Teórico</b></a> - Estructura básica de un programa en Java.
 
 
-  - **💻 Ejemplos de Clase**:  
+- **💻 Ejemplos de Clase**:  
     - [✅ Ejemplo :one:: Primer Programa en Java](Ejemplo-Clases/HolaQuinto.java)  
     - [✅ Ejemplo :two:: Variables y Tipos de Datos](Ejemplo-Clases/HolaQuinto.java)
-    - [✅ Ejemplo :tre:2: Concatenación](Ejemplo-Clases/ConcatenacionTexto.java)  
+    - [✅ Ejemplo :three:: Concatenación](Ejemplo-Clases/ConcatenacionTexto.java)  
     - [✅ Ejemplo :four:: Variables y Tipos de Datos](Ejemplo-Clases/EntradaDeDatos.java)  
-    -   
+    - [✅ Ejemplo :five:: Condicionales](Ejemplo-Clases/Condicionales)
+      
+   
   - **📝 Ejercicios - Tarea**:  
     - [✍️ Ejercicio 1: Escribir un programa que imprima "Hola Mundo"](Ejemplo-Clases/HolaQuinto.java)  
     - [✍️ Ejercicio 2: Crear un programa que calcule la suma de dos números](ruta-al-ejercicio)
