@@ -48,9 +48,8 @@ Aquí encontrarán:
       
    
   - **📝 Ejercicios - Tarea**:  
-    - [✍️ Ejercicio 1: Escribir un programa que imprima "Hola Mundo"](Ejemplo-Clases/HolaQuinto.java)  
-    - [✍️ Ejercicio 2: Crear un programa que calcule la suma de dos números](ruta-al-ejercicio)
-    - ## Ejercicio 7) Realizar un algoritmo que permita determinar si un número es par o impar, teniendo en cuenta las siguientes condiciones: Solo se admiten números positivos, se evalúan números entre 1000 y 10000, cualquier otro número genera una advertencia de error. El proceso termina cuando el usuario ingresa el número 0.
+    - [✍️ Ejercicio 1: Escribir un programa que imprima "Hola Mundo"](Ejemplo-Clases/HolaQuinto.java)
+    - <a href="https://docs.google.com/document/d/197Jj-0qkYLfQORIxvMjSFOuFhDOM5oP1/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true target="_blank">✍️ <b>PDF Ejercicios 25-03 </b></a> - Estructura básica de un programa en Java.
 
 
 
