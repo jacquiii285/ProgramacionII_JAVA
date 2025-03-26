@@ -6,7 +6,6 @@ Aquí encontrarán:
 - 📄 **Materiales en PDF**   
 - 💻 **Ejemplos prácticos**   
 - 📝 **Ejercicios para practicar**
-- 👀 **Visitas:** ![Contador de visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Aperealazo/https://github.com/Aperealazo/ProgramacionII_JAVA.git)
 
  
 💡 No tengan miedo de experimentar con el código y cometer errores, ¡así es como realmente se aprende!
