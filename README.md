@@ -52,10 +52,9 @@ Aquí encontrarán:
        ✍️ <b>PDF Ejercicios 25-03</b>
 - **📄Conversión de Tipos de Datos en Java: Cómo Transformar Datos de un Tipo a Otro**:
     - [:one: Ejemplo : Primer Programa en Java](Ejemplo-Clases/Conversion_Datos/ParseoDatos.java)
-       <a href=" https://docs.google.com/document/d/1RRfVrvHuLn2hfll0lPg1hcVPLYDlNQRJ/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">
-       ✍️ <b>Ejercicios Jueves 27-03</b>
-   
-</a>
+
+      <a href="https://docs.google.com/document/d/1RRfVrvHuLn2hfll0lPg1hcVPLYDlNQRJ/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">
+       ✍️ <b>Ejercicios Jueves 27-03</b> </a>
 
 
 </details>  
