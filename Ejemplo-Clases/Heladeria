@@ -1,0 +1,21 @@
+//Ejercicio 6
+public class Heladeria {
+    public static void main(String[] args) {
+        String gusto;
+        Scanner leer = new Scanner(System.in);
+        System.out.println("Ingres un gusto de helado: ");
+        gusto= leer.nextLine().toLowerCase();
+        
+        if (gusto.equals("chocolate")
+                || gusto.equals("vainilla") 
+                || gusto.equals("frutilla")
+                || gusto.equals("dulce de leche")) {
+            
+            System.out.println("Si tenemos "+gusto);
+            
+        }else{
+            System.out.println("Gusto no disponible");
+        }
+        
+    }
+}
