@@ -48,8 +48,13 @@ Aquí encontrarán:
    
   - **📝 Ejercicios - Tarea**:  
     - [✍️ Ejercicio 1: Escribir un programa que imprima "Hola Mundo"](Ejemplo-Clases/HolaQuinto.java)
-     <a href="https://docs.google.com/document/d/197Jj-0qkYLfQORIxvMjSFOuFhDOM5oP1/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">
-    ✍️ <b>PDF Ejercicios 25-03</b>
+    <a href="https://docs.google.com/document/d/197Jj-0qkYLfQORIxvMjSFOuFhDOM5oP1/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">
+       ✍️ <b>PDF Ejercicios 25-03</b>
+- **📄Conversión de Tipos de Datos en Java: Cómo Transformar Datos de un Tipo a Otro**:
+    - [:one: Ejemplo : Primer Programa en Java](Ejemplo-Clases/Conversion_Datos/ParseoDatos.java)
+       <a href=" https://docs.google.com/document/d/1RRfVrvHuLn2hfll0lPg1hcVPLYDlNQRJ/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">
+       ✍️ <b>Ejercicios Jueves 27-03</b>
+   
 </a>
 
 
