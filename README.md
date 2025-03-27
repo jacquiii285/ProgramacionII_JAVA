@@ -55,7 +55,7 @@ Aquí encontrarán:
 
       <a href="https://docs.google.com/document/d/1RRfVrvHuLn2hfll0lPg1hcVPLYDlNQRJ/edit?usp=sharing&ouid=113929804567646841132&rtpof=true&sd=true" target="_blank">
        ✍️ <b>Ejercicios Jueves 27-03</b> </a>
-    - [✍️ Ejemplo: Libreria Random](Ejemplo-Clases/LibreriaRandom.java)
+    - [✍️ Ejemplo: Libreria Random](Ejemplo-Clases/LibreriaRandom)
        
 
 </details>  
